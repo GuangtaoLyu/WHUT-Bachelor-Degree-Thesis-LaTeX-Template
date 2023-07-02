@@ -1,12 +1,13 @@
-# Wuhan University of Technology Undergraduate Thesis LaTeX Template 
+# Wuhan University of Technology Bachelor's Degree Thesis LaTeX Template 
 
-WHUT Undergraduate Thesis LaTeX Template 
+WHUT Bachelor's Degree Thesis LaTeX Template 
 
-Wuhan University of Technology Undergraduate Thesis LaTeX Template  
+Wuhan University of Technology Bachelor's Degree Thesis LaTeX Template   
 
-武汉理工大学本科毕业论文 LaTeX 模板
+武汉理工大学本科生毕业设计（论文） LaTeX 模板
 
 武理 毕设 latex 模板
+
 
 ## 简介
 
